@@ -1,7 +1,7 @@
 # Instrukcja dotycząca wykonania badań w aplikacji LearnVocabulary
 
 ## Przebieg badań
-Moja praca magisterska dotyczy wykorzystania technologii Augmented Reality (Rzeczywistości Rozszerzonej) w nauce języka obcego. Podczas badań będę Cię prosił o naukę słówek z języka hiszpańskiego za pomocą dwóch metod.
+Moja praca magisterska skupia się na wykorzystaniu technologii Augmented Reality (Rzeczywistości Rozszerzonej) w nauce języka obcego. Podczas badań będę Cię prosił o naukę słówek z języka hiszpańskiego za pomocą dwóch metod.
 Pierwsza metoda to zwykłe, klasyczne fiszki.
 Druga metoda wykorzystuje technologię AR do renderowania modeli 3D w Twoim pokoju wraz z podpisami.
 
@@ -21,7 +21,7 @@ Badanie jest podzielone w następujący sposób:
 8. test samodzielnego wpisywania 15 słówek.
 
 Najpierw za pomocą jednej metody, potem za pomocą drugiej.
-A po 4 dniach będą testy sprawdzające rezultaty nauki za pomocą dwóch metod:
+Po 4 dniach będą testy sprawdzające rezultaty nauki za pomocą dwóch metod:
 1. quiz z wszystkich 15 słówek
 2. test samodzielnego wpisywania 15 słówek.
 
@@ -44,24 +44,29 @@ Krótki poradnik co do zachowania w AR:
 - po kliknięciu w wykryty obszar zostanie dodany obiekt 3D;
 - obiekt 3d możesz zaznaczyć, powiększyć/zmniejszyć, obrócić, obejść go w około.
 
-Jeśli nie masz zainstalowanych Google AR Services to wyskoczy okienko, że są wymagane. Zainstalować.
-Jeśli w przypadku korzystania z AR będzie czarny ekran, zamiast widoku z kamery, zalecam wykonanie restartu telefonu (coś z AR Servicami czasami nie działa).
-Wskazówka co do powierzchni do dobrego działania z AR: powierzchnie niejednorodne, niebłyszczące. Polecam coś z wyraźną fakturą, np. otwarty zeszyt, koszulka.
+Jeśli nie masz zainstalowanych Google AR Services to wyskoczy okienko, że są wymagane. Zainstaluj je.
+Jeśli w przypadku korzystania z AR zobaczysz czarny ekran, zamiast widoku z kamery - zalecam wykonanie restartu telefonu (AR Services czasami nie działają).
+Jeśli chodzi o powierzchnie, które dobrze działają z AR to są to powierzchnie niejednorodne, niebłyszczące. Polecam coś z wyraźną fakturą, np. otwarty zeszyt, koszulka.
 
 Jeśli wszystko było okej, nie wyskoczył żaden błąd to znaczy, że możemy zaczynać!
 
-Zaczynasz od opcji **"Nauka i test"**.
+Zaczynasz od opcji **"Nauka i test"**. 
+Aktualne ustawienia nauki są wyświetlone na ekranie.
 Wybierz odpowiednią grupę użytkownika O1/O2/O3/O4 i kliknij **'Zaczynamy'**.
 Przejdziesz do ekranu z **"Krokami do wykonania"**.
-Z tego ekranu jesteś prowadzony po kolei do kolejnych etapów badania.
+Z tego ekranu jesteś prowadzony po kolei do każdego etapu badania.
 Wystarczy klikać przycisk na dole ekranu **"Dalej"**.
 Nie cofaj się z tego ekranu, cały proces nawigacji jest obsługiwany przyciskiem na dole.
 
 Po skończeniu nauki dla pierwszej grupy słówek przejdziesz do początkowego ekranu.
-Klikaj ponownie **'Zaczynamy'** i wykonujesz identyczne rzeczy inną metodą i z inną grupą słówek.
+Kliknij ponownie **'Zaczynamy'** i wykonujesz identyczne rzeczy, lecz inną metodą i z inną grupą słówek.
+
+W przypadku nauki za pomocą fiszek, jak i AR, kliknij na napis w celu pokazania tłumaczenia słowa.
+W przypadku quizu wybierz poprawne tłumaczenie prezentowanego słowa.
+W przypadku samodzielnego wpisywania słów, wpisz poprawne tłumaczenie prezentowanego słowa.
 
 Po skończeniu nauki i testów dla dwóch grup słowek, kliknij **"WYŚLIJ DANE"** i potwierdź wysłanie maila.
-I na koniec wypełnij proszę ankietę, która jest dostępna pod adresem: https://forms.gle/asnjZkQv45X7vAwQ7.
+Na koniec wypełnij proszę ankietę, która jest dostępna pod adresem: https://forms.gle/asnjZkQv45X7vAwQ7.
 To był ostatni element na dziś, zapraszam za 4 dni! Przypomnę o tym :)
 
 Po 4 dniach czekają Cię tylko i wyłącznie testy, w których zobaczymy, jak dużo udało Ci się zapamiętać z nauki każdą z metod.
@@ -72,4 +77,3 @@ Po skończeniu przechodzimy do głównego ekranu, i następnie ponownie klikamy 
 
 Po wykonanych testach, kliknij **"WYŚLIJ DANE"**, potwierdź wysłanie przygotowanego maila.
 I to by było na tyle, dzięki za pomoc w badaniach! :) 
-
