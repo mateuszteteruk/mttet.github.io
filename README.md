@@ -11,19 +11,19 @@ Po 4 dniach wykonasz tylko testy końcowe, które sprawdzą, ile zapamiętałeś
 
 Za pomocą każdej metody będziesz się uczyć innych 15 słówek.
 Badanie jest podzielone w następujący sposób:
-1) nauka 5 słówek
-2) quiz z 5 słówek
-3) nauka poprzednich 5 słówek + 5 nowych
-4) quiz z 5 nowych słówek
-5) nauka poprzednich 10 słówek + 5 nowych
-6) quiz z 5 nowych słówek
-7) quiz z wszystkich 15 słówek
-8) test samodzielnego wpisywania 15 słówek.
+1. nauka 5 słówek
+2. quiz z 5 słówek
+3. nauka poprzednich 5 słówek + 5 nowych
+4. quiz z 5 nowych słówek
+5. nauka poprzednich 10 słówek + 5 nowych
+6. quiz z 5 nowych słówek
+7. quiz z wszystkich 15 słówek
+8. test samodzielnego wpisywania 15 słówek.
 
 Najpierw za pomocą jednej metody, potem za pomocą drugiej.
 A po 4 dniach będą testy sprawdzające rezultaty nauki za pomocą dwóch metod:
-1) quiz z wszystkich 15 słówek
-2) test samodzielnego wpisywania 15 słówek.
+1. quiz z wszystkich 15 słówek
+2. test samodzielnego wpisywania 15 słówek.
 
 ## Kwestie organizacyjne
 Na maila powinieneś otrzymać zaproszenie do testowania aplikacji LearnVocabulary.
