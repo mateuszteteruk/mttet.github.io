@@ -51,14 +51,14 @@ Wskazówka co do powierzchni do dobrego działania z AR: powierzchnie niejednoro
 Jeśli wszystko było okej, nie wyskoczył żaden błąd to znaczy, że możemy zaczynać!
 
 Zaczynasz od opcji **"Nauka i test"**.
-Wybierz odpowiednią grupę użytkownika O1/O2/O3/O4 i kliknij **'zaczynamy'**.
+Wybierz odpowiednią grupę użytkownika O1/O2/O3/O4 i kliknij **'Zaczynamy'**.
 Przejdziesz do ekranu z **"Krokami do wykonania"**.
 Z tego ekranu jesteś prowadzony po kolei do kolejnych etapów badania.
 Wystarczy klikać przycisk na dole ekranu **"Dalej"**.
 Nie cofaj się z tego ekranu, cały proces nawigacji jest obsługiwany przyciskiem na dole.
 
 Po skończeniu nauki dla pierwszej grupy słówek przejdziesz do początkowego ekranu.
-Klikaj ponownie zaczynamy i wykonujesz identyczne rzeczy inną metodą i z inną grupą słówek.
+Klikaj ponownie **'Zaczynamy'** i wykonujesz identyczne rzeczy inną metodą i z inną grupą słówek.
 
 Po skończeniu nauki i testów dla dwóch grup słowek, kliknij **"WYŚLIJ DANE"** i potwierdź wysłanie maila.
 I na koniec wypełnij proszę ankietę, która jest dostępna pod adresem: https://forms.gle/asnjZkQv45X7vAwQ7.
