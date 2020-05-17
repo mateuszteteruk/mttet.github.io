@@ -42,7 +42,8 @@ Krótki poradnik co do zachowania w AR:
 - na środku ekranu zobaczysz poruszającą się ikonę dłoni z telefonem - musisz wykonywać lekko koliste ruchy w celu wykrycia powierzchni;
 - wykryta powierzchnia jest oznaczona jako białe punkty;
 - po kliknięciu w wykryty obszar zostanie dodany obiekt 3D;
-- obiekt 3D możesz zaznaczyć, powiększyć/zmniejszyć, obrócić, obejść go w około.
+- obiekt 3D możesz zaznaczyć, powiększyć/zmniejszyć, obrócić, obejść go w około;
+- jeśli są problemy z wykryciem powierzchni, cofnij się z tego ekranu i wejdź ponownie.
 
 Jeśli nie masz zainstalowanych Google AR Services to wyskoczy okienko, że są wymagane. Zainstaluj je.
 Jeśli podczas korzystania z AR zobaczysz czarny ekran zamiast widoku z kamery - zalecam wykonanie restartu telefonu (AR Services czasami nie działają).
