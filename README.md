@@ -5,7 +5,7 @@ Moja praca magisterska skupia się na wykorzystaniu technologii Augmented Realit
 Pierwsza metoda to zwykłe, klasyczne fiszki.
 Druga metoda wykorzystuje technologię AR do renderowania modeli 3D w Twoim pokoju wraz z podpisami.
 
-Badania będą trwały dwa dni, czyli dzisiaj (**tj. niedziela**) i **czwartek**.
+Badania będą trwały dwa dni, czyli dzisiaj (**tj. niedziela "Nauka i test"**) i **czwartek "Test"**.
 Pierwszego dnia będziesz się uczyć słówek za pomocą dwóch metod, a na koniec przystąpisz do testu końcowego, który sprawdzi, ile zapamiętałeś w perspektywie krótkoterminowej.
 Po 4 dniach wykonasz tylko testy końcowe, które sprawdzą, ile zapamiętałeś w perspektywie długoterminowej.
 
